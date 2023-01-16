@@ -7,6 +7,7 @@ public class FootBall {
        System.out.println("World Cup");
 		 System.out.println("World Cup winner");
 		 System.out.println("champion");
+		 System.out.println("champion");
 
 
 	}
